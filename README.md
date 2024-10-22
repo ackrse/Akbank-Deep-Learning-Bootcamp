@@ -17,9 +17,9 @@ Projede kullanılan veri seti, [Kaggle Fish Dataset](https://www.kaggle.com/data
 
 ## Model Performansı
 Model, test seti üzerinde yüksek bir doğruluk oranı elde etmiştir. Aşağıda eğitim ve değerlendirme sürecinde elde edilen performans metrikleri yer almaktadır:
-- **Eğitim Doğruluğu**: ~96.4%
-- **Doğrulama Doğruluğu**: ~98.5%
-- **Test Doğruluğu**: ~93.3%
+- **Eğitim Doğruluğu**: ~98.37%
+- **Doğrulama Doğruluğu**: ~99.22%
+- **Test Doğruluğu**: ~97.17%
 
 ## Sonuçların Görselleştirilmesi
 Eğitim süreci boyunca modelin doğruluk ve kayıp değerleri grafikler ile görselleştirilmiştir. Ayrıca, sınıfların karışıklık matrisleri ve pasta grafikleri ile modelin sınıflandırma başarısı detaylandırılmıştır.
