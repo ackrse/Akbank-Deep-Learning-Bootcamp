@@ -6,6 +6,8 @@ Bu proje, derin öğrenme tekniklerini kullanarak farklı balık türlerini sın
 ## Kaggle Notebook Link
 https://www.kaggle.com/code/ahsencakir/fish-classification
 
+https://www.kaggle.com/code/beyzakaraoban/fish-classification
+
 ## Veri Seti
 Projede kullanılan veri seti, [Kaggle Fish Dataset](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset/data) adlı veri setinden alınmıştır. Bu veri seti, çeşitli balık türlerini temsil eden binlerce görüntüden oluşmaktadır. Veri seti, modelin genelleme performansını artırmak için eğitim, doğrulama ve test setlerine bölünmüştür.
 
